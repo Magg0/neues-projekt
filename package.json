@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Magg0/persistant/issues"
   },
-  "homepage": "https://github.com/Magg0/persistant#readme"
+  "homepage": "https://github.com/Magg0/persistant#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "method-override": "^2.3.6",
+    "morgan": "^1.7.0"
+  }
 }
